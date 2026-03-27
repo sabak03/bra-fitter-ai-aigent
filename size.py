@@ -1,8 +1,8 @@
 import streamlit as st
 
 cups = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P"]
-double = ["D","F","H","J","K"]
-sisters = ["AA","A","B","C","D","DD","E","F","FF","G","H","HH","I","J","JJ","K","KK","L","M","N","O","P"]
+double = ["D","F","G","H","J","K"]
+sisters = ["AA","A","B","C","D","DD","E","F","FF","G","GG","H","HH","I","J","JJ","K","KK","L","M","N","O","P"]
 
 def get_basic_size():
     """
